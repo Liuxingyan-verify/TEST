@@ -10,7 +10,7 @@ logic [ 5:0]  ch0_margin;
 logic [31:0]  ch1_data;
 logic         ch1_valid;
 logic         ch1_ready;
-logic [ 5:0]  ch1_margin;
+logic [ 5:0]  ch1_margin
 logic [31:0]  ch2_data;
 logic         ch2_valid;
 logic         ch2_ready;
