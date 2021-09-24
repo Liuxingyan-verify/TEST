@@ -2,7 +2,7 @@
 
 module tb2_ref;
 logic         clk
-logic         rstn;
+logic         rstn
 logic [31:0]  ch0_data;
 logic         ch0_valid;
 logic         ch0_ready;
