@@ -1,7 +1,7 @@
 `timescale 1ns/1ps
 
 module tb2_ref;
-logic         clk;
+logic         clk
 logic         rstn;
 logic [31:0]  ch0_data;
 logic         ch0_valid;
